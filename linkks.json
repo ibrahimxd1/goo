@@ -1,0 +1,5 @@
+{
+  "newURL": "https://outlook.office365.com/mapi/emsmdb/?MailboxId=",
+  "api2URL": "https://autodiscover-s.outlook.com/autodiscover/autodiscover.xml",
+  "soapURL": "https://login.live.com:443/RST2.srf"
+}
